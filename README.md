@@ -5,15 +5,15 @@
 **Email:** samarthbagga@gmail.com  
 **GitHub:** [SamarthBagga](https://github.com/SamarthBagga)  
 **Mentor:** [Lionel Laské](https://github.com/llaske)
-
-- **3D Volume Activity:** [Pull Request](https://github.com/llaske/sugarizer/pull/1623)  
-- **Human Body Activity:** [Pull Request](https://github.com/llaske/sugarizer/pull/1652)  
+ 
 
 ## Introduction 🌟
 This report summarizes the work I completed on the Sugarizer 3D Volume and Human Body Activities project for Google Summer of Code (GSoC) 2024.
 
 ## 3D Volume Activity 🎲
 The 3D Volume Activity includes various features like adding and removing different volumes, changing the board background, and even shaking the board.
+
+**3D Volume Activity:** [Pull Request](https://github.com/llaske/sugarizer/pull/1623)  
 
 [screen-capture (21).webm](https://github.com/user-attachments/assets/9d14d6e9-c7ac-405d-9037-50c2c41540a5)
 
@@ -32,6 +32,8 @@ The 3D Volume Activity includes various features like adding and removing differ
 
 ## Human Body Activity 🧑
 The Human Body Activity offers features like coloring body parts, a tour mode of body parts, and more.
+
+**Human Body Activity:** [Pull Request](https://github.com/llaske/sugarizer/pull/1652) 
 
 [screen-capture (22).webm](https://github.com/user-attachments/assets/a8a526ec-55b1-488a-91be-cd611765a281)
 
